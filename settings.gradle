@@ -1,0 +1,7 @@
+include ':mysql-connector-java-5.1.35-bin'
+include ':auto-value-1.2'
+include ':google-cloud-translate-v2'
+include ':google-api-translate-java-0.97'
+include ':microsoft-translator-java-api-0.4'
+include ':app'
+rootProject.name='Al Fattah'

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_logout"
+        android:name="com.mrunknown.alfattah.ui.logout.LogoutFragment"
+        android:label="@string/menu_logout" />
+    <fragment
+        android:id="@+id/nav_feedback"
+        android:name="com.mrunknown.alfattah.ui.feedback.FeedbackFragment"
+        android:label="@string/menu_feedback" />
+    <fragment
+        android:id="@+id/nav_share"
+        android:name="com.mrunknown.alfattah.ui.share.ShareFragment"
+        android:label="@string/menu_share" />
+    <fragment
+        android:id="@+id/nav_leadership"
+        android:name="com.mrunknown.alfattah.ui.leadership.LeadershipFragment"
+        android:label="@string/menu_leader" />
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.mrunknown.alfattah.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="com.mrunknown.alfattah.ui.profile.ProfileFragment"
+        android:label="@string/menu_profile" />
+
+    <fragment
+        android:id="@+id/nav_quiz"
+        android:name="com.mrunknown.alfattah.ui.quiz.QuizFragment"
+        android:label="@string/menu_quiz" />
+</navigation>

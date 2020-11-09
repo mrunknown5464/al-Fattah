@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "498890274618",
+    "firebase_url": "https://alfattah-5464.firebaseio.com",
+    "project_id": "alfattah-5464",
+    "storage_bucket": "alfattah-5464.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498890274618:android:399f91b172df0b140dc203",
+        "android_client_info": {
+          "package_name": "com.mrunknown.alfattah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498890274618-r69guafvuhlp8av52pel3b4mk95is1c1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mrunknown.alfattah",
+            "certificate_hash": "8d3d5853c95402b66af5027b832eddb44823fc14"
+          }
+        },
+        {
+          "client_id": "498890274618-ga64jfhhq3fuqs4157ai0mfm767h9t5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxDFJ3JFsIJU81xzEG3YDXu_M6DAd-luM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498890274618-ga64jfhhq3fuqs4157ai0mfm767h9t5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
